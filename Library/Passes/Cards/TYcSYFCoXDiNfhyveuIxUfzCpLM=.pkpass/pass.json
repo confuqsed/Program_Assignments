@@ -1,0 +1,55 @@
+{
+  "passTypeIdentifier": "pass.org.montereybayaquarium.ecommerce",
+  "formatVersion": 1,
+  "serialNumber": "22514557580",
+  "description": "Monterey Bay Aquarium",
+  "organizationName": "Monterey Bay Aquarium",
+  "teamIdentifier": "J2S3H7HUWP",
+  "sharingProhibited": false,
+  "foregroundColor": "rgb(255,255,255)",
+  "backgroundColor": "rgb(0,42,84)",
+  "labelColor": "rgb(159,159,159)",
+  "groupingIdentifier": "21645",
+  "expirationDate": "2021-06-29T16:30:00-07:00",
+  "eventTicket": {
+    "headerFields": [
+      {
+        "key": "date",
+        "label": "10:30 AM",
+        "value": "Jun. 27, 2021"
+      }
+    ],
+    "primaryFields": [],
+    "secondaryFields": [
+      {
+        "key": "Ticket Type",
+        "label": "Youth (ages 13-17)",
+        "value": "General Admission"
+      }
+    ],
+    "auxiliaryFields": [],
+    "backFields": [
+      {
+        "key": "Order No",
+        "label": "ORDER NO.",
+        "value": "3322833"
+      },
+      {
+        "key": "Purchaser",
+        "label": "PURCHASED BY",
+        "value": "Bao Tran"
+      },
+      {
+        "key": "TermsAndConditions",
+        "label": "TERMS AND CONDITIONS",
+        "value": "Tickets are valid for one-time use at the reserved date and time. By reserving a ticket, you agree to  the terms and conditions for ticket purchase and attendance . You can enter the Aquarium starting at your scheduled entry time. Please arrive within the hour. Tickets are non-refundable. All purchases subject to our exchanges and refunds policy . You may exchange your ticket by going to the My Account page , clicking the \"My tickets\" button then clicking the \"Exchange\" link next to your ticket. For help, please email us at visitinfo@mbayaq.org or call 831.648.4800. Tickets can be applied toward the purchase of a membership at the Aquarium when you visit.   "
+      }
+    ]
+  },
+  "barcode": {
+    "format": "PKBarcodeFormatQR",
+    "message": "557580",
+    "messageEncoding": "iso-8859-1",
+    "altText": "1-462"
+  }
+}

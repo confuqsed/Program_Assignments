@@ -1,0 +1,51 @@
+2024-07-07 15:58:03.004 [info] Started initializing default profile extensions in extensions installation folder. file:///Users/kevinly/.vscode/extensions
+2024-07-07 15:58:03.047 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///Users/kevinly/.vscode/extensions Unable to create file 'vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-07-07 15:58:03.064 [info] Completed initializing default profile extensions in extensions installation folder. file:///Users/kevinly/.vscode/extensions
+2024-07-07 15:58:20.039 [info] Getting Manifest... ms-python.python
+2024-07-07 15:58:20.052 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json","path":"/Users/kevinly/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.0","date":"2024-07-01T18:54:18.541Z"}}
+2024-07-07 15:58:20.386 [info] Getting Manifest... ms-python.vscode-pylance
+2024-07-07 15:58:20.412 [info] Getting Manifest... ms-python.debugpy
+2024-07-07 15:58:20.468 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json","path":"/Users/kevinly/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.0","date":"2024-07-01T18:54:18.541Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-07 15:58:20.469 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json","path":"/Users/kevinly/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.0","date":"2024-07-01T18:54:18.541Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-07 15:58:21.898 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 769ms.
+2024-07-07 15:58:21.918 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 823ms.
+2024-07-07 15:58:22.414 [info] Extracted extension to file:///Users/kevinly/.vscode/extensions/ms-python.debugpy-2024.6.0-darwin-x64: ms-python.debugpy
+2024-07-07 15:58:22.437 [info] Renamed to /Users/kevinly/.vscode/extensions/ms-python.debugpy-2024.6.0-darwin-x64
+2024-07-07 15:58:22.632 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 903ms.
+2024-07-07 15:58:24.076 [info] Extracted extension to file:///Users/kevinly/.vscode/extensions/ms-python.python-2024.8.1: ms-python.python
+2024-07-07 15:58:24.137 [info] Renamed to /Users/kevinly/.vscode/extensions/ms-python.python-2024.8.1
+2024-07-07 15:58:28.409 [info] Getting Manifest... ms-toolsai.jupyter
+2024-07-07 15:58:28.417 [info] Installing extension: ms-toolsai.jupyter {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json","path":"/Users/kevinly/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.0","date":"2024-07-01T18:54:18.541Z"}}
+2024-07-07 15:58:28.499 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2024-07-07 15:58:28.520 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2024-07-07 15:58:28.531 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2024-07-07 15:58:28.544 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2024-07-07 15:58:28.578 [info] Installing extension: ms-toolsai.jupyter-keymap {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json","path":"/Users/kevinly/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.0","date":"2024-07-01T18:54:18.541Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-07 15:58:28.589 [info] Installing extension: ms-toolsai.jupyter-renderers {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json","path":"/Users/kevinly/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.0","date":"2024-07-01T18:54:18.541Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-07 15:58:28.589 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json","path":"/Users/kevinly/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.0","date":"2024-07-01T18:54:18.541Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-07 15:58:28.589 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json","path":"/Users/kevinly/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.0","date":"2024-07-01T18:54:18.541Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-07 15:58:29.423 [info] Extracted extension to file:///Users/kevinly/.vscode/extensions/ms-python.vscode-pylance-2024.6.1: ms-python.vscode-pylance
+2024-07-07 15:58:29.495 [info] Renamed to /Users/kevinly/.vscode/extensions/ms-python.vscode-pylance-2024.6.1
+2024-07-07 15:58:29.530 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json
+2024-07-07 15:58:29.530 [info] Extension installed successfully: ms-python.python vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json
+2024-07-07 15:58:29.531 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json
+2024-07-07 15:58:29.767 [info] Extension signature verification result for ms-toolsai.vscode-jupyter-cell-tags: Success. Executed: true. Duration: 840ms.
+2024-07-07 15:58:29.796 [info] Extracted extension to file:///Users/kevinly/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9: ms-toolsai.vscode-jupyter-cell-tags
+2024-07-07 15:58:29.819 [info] Renamed to /Users/kevinly/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9
+2024-07-07 15:58:29.867 [info] Extension signature verification result for ms-toolsai.vscode-jupyter-slideshow: Success. Executed: true. Duration: 840ms.
+2024-07-07 15:58:29.873 [info] Extension signature verification result for ms-toolsai.jupyter-keymap: Success. Executed: true. Duration: 790ms.
+2024-07-07 15:58:29.876 [info] Extension signature verification result for ms-toolsai.jupyter: Success. Executed: true. Duration: 869ms.
+2024-07-07 15:58:29.906 [info] Extracted extension to file:///Users/kevinly/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2: ms-toolsai.jupyter-keymap
+2024-07-07 15:58:29.920 [info] Renamed to /Users/kevinly/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2
+2024-07-07 15:58:29.953 [info] Extracted extension to file:///Users/kevinly/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6: ms-toolsai.vscode-jupyter-slideshow
+2024-07-07 15:58:29.990 [info] Renamed to /Users/kevinly/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6
+2024-07-07 15:58:30.020 [info] Extension signature verification result for ms-toolsai.jupyter-renderers: Success. Executed: true. Duration: 774ms.
+2024-07-07 15:58:30.300 [info] Extracted extension to file:///Users/kevinly/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.18: ms-toolsai.jupyter-renderers
+2024-07-07 15:58:30.323 [info] Renamed to /Users/kevinly/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.18
+2024-07-07 15:58:30.532 [info] Extracted extension to file:///Users/kevinly/.vscode/extensions/ms-toolsai.jupyter-2024.6.0-darwin-x64: ms-toolsai.jupyter
+2024-07-07 15:58:30.556 [info] Renamed to /Users/kevinly/.vscode/extensions/ms-toolsai.jupyter-2024.6.0-darwin-x64
+2024-07-07 15:58:30.581 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json
+2024-07-07 15:58:30.581 [info] Extension installed successfully: ms-toolsai.jupyter-keymap vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json
+2024-07-07 15:58:30.582 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json
+2024-07-07 15:58:30.582 [info] Extension installed successfully: ms-toolsai.jupyter-renderers vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json
+2024-07-07 15:58:30.582 [info] Extension installed successfully: ms-toolsai.jupyter vscode-userdata:/Users/kevinly/.vscode/extensions/extensions.json

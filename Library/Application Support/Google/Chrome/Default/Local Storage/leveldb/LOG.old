@@ -1,0 +1,6 @@
+2024/07/07-18:49:34.942 3d03 Reusing MANIFEST /Users/kevinly/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/07/07-18:49:34.962 3d03 Recovering log #3
+2024/07/07-18:49:34.963 3d03 Reusing old log /Users/kevinly/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/000003.log 
+2024/07/07-18:59:49.347 2f03 Level-0 table #5: started
+2024/07/07-18:59:49.370 2f03 Level-0 table #5: 23777 bytes OK
+2024/07/07-18:59:49.410 2f03 Delete type=0 #3

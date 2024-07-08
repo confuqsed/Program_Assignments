@@ -1,0 +1,65 @@
+/usr/local/bin/python3
+python3 test.py
+python3 test.py
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+/usr/local/bin/python3 "/Users/kevinly/Program Assignments/test.py"
+python3 test.py
+python3 test.py
+python3 test.py
+python3 test.py
+/usr/local/bin/python3 "/Users/kevinly/Program Assignments/test.py"
+python3 test/py
+python3 test.py
+/usr/local/bin/python3 "/Users/kevinly/Program Assignments/test.py"
+python3 test.py
+git --version
+echo "#test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/confuqsed/Program-Assignments.git
+git push -u origin main
+git push -u origin main
+git push -u origin main
+python3 test.py
+git init
+git add README.md
+git branch -M main
+git remote add origin https://github.com/confuqsed/Program-Assignments.git
+git push -u origin main
+git push -u origin main
+git push
+git push -u origin main
+git gc
+git push -u origin main
+git fsck
+git gc
+git push -u origin main
+git push -u origin main
+git push -u origin main
+ls
+cd Documents
+ls
+cd Program Assignments
+cd Program_Assignments
+cd ProgramAssignments
+cd Program-Assignments
+cd Program Assignments
+cd "Program Assignments"

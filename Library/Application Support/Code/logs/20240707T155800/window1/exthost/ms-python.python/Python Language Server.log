@@ -1,0 +1,39 @@
+2024-07-07 15:59:26.897 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-07-07 15:59:27.404 [info] [Info  - 3:59:27 PM] (1575) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-07-07 15:59:27.405 [info] [Info  - 3:59:27 PM] (1575) Server root directory: file:///Users/kevinly/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-07 15:59:27.405 [info] [Info  - 3:59:27 PM] (1575) Starting service instance "Program Assignments"
+2024-07-07 15:59:27.422 [info] Auto-Indent enabled
+2024-07-07 15:59:27.434 [info] Auto-Indent enabled
+2024-07-07 15:59:27.435 [info] [Info  - 3:59:27 PM] (1575) Setting environmentName for service "Program Assignments": "python"
+2024-07-07 15:59:27.444 [info] xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+
+2024-07-07 15:59:27.472 [info] [Info  - 3:59:27 PM] (1575) Found 1 source file
+2024-07-07 15:59:27.474 [info] Auto-Indent enabled
+2024-07-07 15:59:27.837 [info] [Info  - 3:59:27 PM] (1575) Background analysis(1) root directory: file:///Users/kevinly/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-07 15:59:27.839 [info] [Info  - 3:59:27 PM] (1575) Background analysis(1) started
+2024-07-07 15:59:27.848 [info] xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+
+2024-07-07 15:59:27.911 [info] [Info  - 3:59:27 PM] (1575) Indexer background runner(2) root directory: file:///Users/kevinly/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-07-07 15:59:27.911 [info] [Info  - 3:59:27 PM] (1575) Indexing(2) started
+2024-07-07 15:59:27.920 [info] xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+
+2024-07-07 15:59:28.123 [info] [Info  - 3:59:28 PM] (1575) scanned(2) 1 files over 1 exec env
+2024-07-07 15:59:28.496 [info] [Info  - 3:59:28 PM] (1575) indexed(2) 1 files over 1 exec env
+2024-07-07 15:59:28.504 [info] [Info  - 3:59:28 PM] (1575) Indexing finished(2).
+2024-07-07 16:11:00.505 [info] Auto-Indent enabled
+2024-07-07 16:11:00.506 [info] [Info  - 4:11:00 PM] (1575) Setting pythonPath for service "Program Assignments": "/usr/local/bin/python3"
+2024-07-07 16:11:00.506 [info] [Info  - 4:11:00 PM] (1575) Setting environmentName for service "Program Assignments": "3.12.4 (global)"
+2024-07-07 16:11:00.547 [info] [Info  - 4:11:00 PM] (1575) Assuming Python version 3.12.4.final.0
+2024-07-07 16:11:00.634 [info] [Info  - 4:11:00 PM] (1575) Found 1 source file
+2024-07-07 16:11:00.649 [info] Auto-Indent enabled
+2024-07-07 16:11:01.060 [info] [Info  - 4:11:01 PM] (1575) Indexer background runner(3) root directory: file:///Users/kevinly/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-07-07 16:11:01.060 [info] [Info  - 4:11:01 PM] (1575) Indexing(3) started
+2024-07-07 16:11:01.348 [info] [Info  - 4:11:01 PM] (1575) scanned(3) 13 files over 1 exec env
+2024-07-07 16:11:01.530 [info] [Info  - 4:11:01 PM] (1575) indexed(3) 3 files over 1 exec env
+2024-07-07 16:11:01.539 [info] [Info  - 4:11:01 PM] (1575) Indexing finished(3).

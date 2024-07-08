@@ -1,0 +1,27 @@
+2024-07-07 15:58:03.196 [info] Extension host with pid 1495 started
+2024-07-07 15:58:03.277 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-07 15:58:03.388 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-07 15:58:03.500 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-07 15:58:03.600 [info] Eager extensions activated
+2024-07-07 15:58:03.605 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-07 15:58:03.608 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-07 15:58:13.744 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-07 15:59:10.858 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-07 15:59:10.866 [info] Extension host with pid 1495 exiting with code 0
+2024-07-07 15:59:12.150 [info] Extension host with pid 1533 started
+2024-07-07 15:59:12.156 [info] Skipping acquiring lock for /Users/kevinly/Library/Application Support/Code/User/workspaceStorage/5a87e6d4162f86e7159d0b2004683a91.
+2024-07-07 15:59:12.301 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-07-07 15:59:12.336 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-07 15:59:12.354 [info] Eager extensions activated
+2024-07-07 15:59:12.443 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-07 15:59:12.445 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-07 15:59:17.348 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-07-07 15:59:22.928 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-07-07 15:59:23.141 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-07-07 15:59:23.143 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-07 15:59:23.756 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-07-07 15:59:23.824 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-07-07 15:59:23.876 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-07-07 16:11:42.458 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-07-07 16:16:32.047 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-07 16:16:32.072 [info] Extension host with pid 1533 exiting with code 0

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>properties</key>
+	<dict>
+		<key>batchSize</key>
+		<integer>50</integer>
+		<key>periodicDelay</key>
+		<integer>120</integer>
+		<key>serverEnvironment</key>
+		<string>production</string>
+		<key>serverSettings</key>
+		<dict>
+			<key>host</key>
+			<string>pcms.apple.com</string>
+			<key>path</key>
+			<string>/1/events</string>
+			<key>prefix</key>
+			<dict>
+				<key>dev1</key>
+				<string>ec-dev1</string>
+				<key>dev2</key>
+				<string>ec-dev2</string>
+				<key>internal</key>
+				<string>ec-internal</string>
+				<key>production</key>
+				<string>ec</string>
+				<key>review</key>
+				<string>ec-rvw</string>
+				<key>staging</key>
+				<string>ec-stg</string>
+			</dict>
+			<key>protocol</key>
+			<string>https</string>
+		</dict>
+	</dict>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

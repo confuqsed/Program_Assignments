@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CanRequestPeerPaymentsFromWallet</key>
+	<false/>
+	<key>CanSendPeerPayments</key>
+	<false/>
+	<key>CanSendPeerPaymentsFromWallet</key>
+	<false/>
+	<key>ContactlessPassesAvailable</key>
+	<false/>
+	<key>ContactlessPaymentPassesAvailable</key>
+	<false/>
+	<key>PeerPaymentHasCashFamily</key>
+	<false/>
+	<key>PeerPaymentIsSetup</key>
+	<false/>
+	<key>PeerPaymentMessagesExtensionVisible</key>
+	<false/>
+	<key>PeerPaymentSupportsManatee</key>
+	<true/>
+	<key>PendingRequestAction</key>
+	<false/>
+	<key>RegisteredForPeerPayments</key>
+	<false/>
+	<key>com.apple.passes.sync.securePDPassSyncCloudStoreContainerLastDownloadDateKey</key>
+	<date>2024-07-08T01:22:07Z</date>
+</dict>
+</plist>

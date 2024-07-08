@@ -1,0 +1,193 @@
+2024-07-07 15:59:23.597 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-07 15:59:23.597 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-07 15:59:23.597 [info] Experiment 'pythonSurveyNotification' is active
+2024-07-07 15:59:23.597 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-07 15:59:23.597 [info] Experiment 'pythonTestAdapter' is active
+2024-07-07 15:59:23.784 [info] Default formatter is set to null for workspace /Users/kevinly/Program Assignments
+2024-07-07 15:59:23.793 [info] Starting Environment refresh
+2024-07-07 15:59:23.793 [info] Searching for interpreters in posix paths locator
+2024-07-07 15:59:23.799 [info] Searching for pyenv environments
+2024-07-07 15:59:23.799 [info] Searching for conda environments
+2024-07-07 15:59:23.799 [info] Searching for global virtual environments
+2024-07-07 15:59:23.799 [info] Searching for custom virtual environments
+2024-07-07 15:59:24.187 [info] pyenv is not installed
+2024-07-07 15:59:24.209 [info] Finished searching for pyenv environments: 393 milliseconds
+2024-07-07 15:59:24.210 [info] Finished searching for custom virtual envs: 414 milliseconds
+2024-07-07 15:59:24.213 [info] > conda info --json
+2024-07-07 15:59:24.217 [info] > hatch env show --json
+2024-07-07 15:59:24.217 [info] cwd: ~/Program Assignments
+2024-07-07 15:59:24.249 [info] > pyenv which python
+2024-07-07 15:59:24.249 [info] cwd: ~/Program Assignments
+2024-07-07 15:59:24.249 [info] Finished searching for global virtual envs: 454 milliseconds
+2024-07-07 15:59:24.263 [info] Found: /usr/bin/python3 --> /usr/bin/python3
+2024-07-07 15:59:24.271 [info] Finished searching for interpreters in posix paths locator: 479 milliseconds
+2024-07-07 15:59:24.280 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/interpreterInfo.py
+2024-07-07 15:59:24.280 [info] Environments refresh paths discovered (event): 489 milliseconds
+2024-07-07 15:59:24.281 [info] Environments refresh paths discovered: 490 milliseconds
+2024-07-07 15:59:24.293 [error] [Error: Command failed: /usr/bin/python3 -I /Users/kevinly/.vscode/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py /Users/kevinly/.vscode/extensions/ms-python.python-2024.8.1/python_files/interpreterInfo.py
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:305:5)] {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python3 -I /Users/kevinly/.vscode/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py /Users/kevinly/.vscode/extensions/ms-python.python-2024.8.1/python_files/interpreterInfo.py'
+}
+2024-07-07 15:59:26.296 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/interpreterInfo.py
+2024-07-07 15:59:26.307 [error] [Error: Command failed: /usr/bin/python3 -I /Users/kevinly/.vscode/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py /Users/kevinly/.vscode/extensions/ms-python.python-2024.8.1/python_files/interpreterInfo.py
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:337:12)] {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python3 -I /Users/kevinly/.vscode/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py /Users/kevinly/.vscode/extensions/ms-python.python-2024.8.1/python_files/interpreterInfo.py'
+}
+2024-07-07 15:59:26.312 [info] Environments refresh finished (event): 2521 milliseconds
+2024-07-07 15:59:26.314 [info] Environment refresh took 2523 milliseconds
+2024-07-07 15:59:26.318 [info] > python -c "import sys;print(sys.executable)"
+2024-07-07 15:59:26.325 [error] [Error: Command failed: python -c "import sys;print(sys.executable)"
+/bin/sh: python: command not found
+
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:337:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'python -c "import sys;print(sys.executable)"'
+}
+2024-07-07 15:59:26.327 [info] > pyenv which python
+2024-07-07 15:59:26.327 [info] cwd: ~/Program Assignments
+2024-07-07 15:59:27.417 [info] Starting Pylance language server.
+2024-07-07 16:08:20.935 [info] Starting Environment refresh
+2024-07-07 16:08:20.935 [info] Searching for interpreters in posix paths locator
+2024-07-07 16:08:20.936 [info] Searching for pyenv environments
+2024-07-07 16:08:20.936 [info] Searching for conda environments
+2024-07-07 16:08:20.936 [info] Searching for global virtual environments
+2024-07-07 16:08:20.936 [info] Searching for custom virtual environments
+2024-07-07 16:08:20.939 [info] pyenv is not installed
+2024-07-07 16:08:20.939 [info] Finished searching for pyenv environments: 3 milliseconds
+2024-07-07 16:08:20.939 [info] Finished searching for custom virtual envs: 3 milliseconds
+2024-07-07 16:08:20.939 [info] Finished searching for global virtual envs: 3 milliseconds
+2024-07-07 16:08:20.945 [info] Found: /usr/bin/python3 --> /usr/bin/python3
+2024-07-07 16:08:20.950 [info] Finished searching for interpreters in posix paths locator: 15 milliseconds
+2024-07-07 16:08:20.960 [info] Environments refresh paths discovered (event): 26 milliseconds
+2024-07-07 16:08:20.960 [info] Environments refresh finished (event): 26 milliseconds
+2024-07-07 16:08:20.964 [info] Environments refresh paths discovered: 26 milliseconds
+2024-07-07 16:08:20.965 [info] Environment refresh took 32 milliseconds
+2024-07-07 16:08:46.705 [info] Starting Environment refresh
+2024-07-07 16:08:46.705 [info] Searching for interpreters in posix paths locator
+2024-07-07 16:08:46.705 [info] Searching for pyenv environments
+2024-07-07 16:08:46.705 [info] Searching for conda environments
+2024-07-07 16:08:46.705 [info] Searching for global virtual environments
+2024-07-07 16:08:46.705 [info] Searching for custom virtual environments
+2024-07-07 16:08:46.706 [info] pyenv is not installed
+2024-07-07 16:08:46.706 [info] Finished searching for pyenv environments: 1 milliseconds
+2024-07-07 16:08:46.706 [info] Finished searching for custom virtual envs: 1 milliseconds
+2024-07-07 16:08:46.707 [info] Finished searching for global virtual envs: 2 milliseconds
+2024-07-07 16:08:46.711 [info] Found: /usr/bin/python3 --> /usr/bin/python3
+2024-07-07 16:08:46.713 [info] Finished searching for interpreters in posix paths locator: 9 milliseconds
+2024-07-07 16:08:46.722 [info] Environments refresh paths discovered (event): 17 milliseconds
+2024-07-07 16:08:46.722 [info] Environments refresh finished (event): 17 milliseconds
+2024-07-07 16:08:46.722 [info] Environments refresh paths discovered: 18 milliseconds
+2024-07-07 16:08:46.723 [info] Environment refresh took 19 milliseconds
+2024-07-07 16:10:58.997 [info] Starting Environment refresh
+2024-07-07 16:10:58.997 [info] Searching for interpreters in posix paths locator
+2024-07-07 16:10:58.997 [info] Searching for pyenv environments
+2024-07-07 16:10:58.997 [info] Searching for conda environments
+2024-07-07 16:10:58.997 [info] Searching for global virtual environments
+2024-07-07 16:10:58.997 [info] Searching for custom virtual environments
+2024-07-07 16:10:58.998 [info] pyenv is not installed
+2024-07-07 16:10:58.998 [info] Finished searching for pyenv environments: 1 milliseconds
+2024-07-07 16:10:58.998 [info] Finished searching for custom virtual envs: 1 milliseconds
+2024-07-07 16:10:58.999 [info] Finished searching for global virtual envs: 2 milliseconds
+2024-07-07 16:10:59.002 [info] Found: /usr/bin/python3 --> /usr/bin/python3
+2024-07-07 16:10:59.005 [info] Found: /usr/local/bin/python3 --> /Library/Frameworks/Python.framework/Versions/3.12/bin/python3.12
+2024-07-07 16:10:59.005 [info] Found: /usr/local/bin/python3.12 --> /Library/Frameworks/Python.framework/Versions/3.12/bin/python3.12
+2024-07-07 16:10:59.013 [info] Finished searching for interpreters in posix paths locator: 15 milliseconds
+2024-07-07 16:10:59.020 [info] > /usr/local/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/interpreterInfo.py
+2024-07-07 16:10:59.020 [info] Environments refresh paths discovered (event): 24 milliseconds
+2024-07-07 16:10:59.020 [info] Environments refresh paths discovered: 24 milliseconds
+2024-07-07 16:10:59.107 [info] Environments refresh finished (event): 111 milliseconds
+2024-07-07 16:10:59.110 [info] Environment refresh took 114 milliseconds
+2024-07-07 16:11:00.493 [info] Discover tests for workspace name: Program Assignments - uri: /Users/kevinly/Program Assignments
+2024-07-07 16:11:00.493 [info] Python interpreter path: /usr/local/bin/python3
+2024-07-07 16:11:02.492 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:11:02.657 [info] Send text to terminal: /usr/local/bin/python3
+2024-07-07 16:11:02.944 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:11:44.624 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:11:44.684 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:11:47.526 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:11:47.580 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:11:47.703 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:11:47.755 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:11:58.176 [info] Discover tests for workspace name: Program Assignments - uri: /Users/kevinly/Program Assignments/test.py
+2024-07-07 16:12:02.354 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:02.411 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:04.074 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:04.127 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:04.339 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:04.396 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:04.511 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:04.563 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:04.667 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:04.719 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:04.794 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:04.846 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:04.914 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:04.968 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:15.728 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:15.787 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:16.621 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:16.674 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:16.761 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:16.814 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:16.925 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:16.979 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:19.954 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:20.009 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:20.755 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:20.816 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:20.962 [info] > /usr/local/bin/python3 ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/normalizeSelection.py
+2024-07-07 16:12:21.016 [info] Send text to terminal: print("hello world")
+
+2024-07-07 16:12:35.167 [info] CreateEnv Trigger - Skipping for /Users/kevinly/Program Assignments/test.py
+2024-07-07 16:12:35.186 [info] Send text to terminal: /usr/local/bin/python3 "/Users/kevinly/Program Assignments/test.py"
+2024-07-07 16:12:35.431 [info] Discover tests for workspace name: Program Assignments - uri: /Users/kevinly/Program Assignments/test.py
+2024-07-07 16:15:24.715 [info] Send text to terminal: /usr/local/bin/python3 "/Users/kevinly/Program Assignments/test.py"
+2024-07-07 16:15:24.960 [info] Discover tests for workspace name: Program Assignments - uri: /Users/kevinly/Program Assignments/test.py
+2024-07-07 16:16:06.691 [info] Send text to terminal: /usr/local/bin/python3 "/Users/kevinly/Program Assignments/test.py"
+2024-07-07 16:16:06.935 [info] Discover tests for workspace name: Program Assignments - uri: /Users/kevinly/Program Assignments/test.py

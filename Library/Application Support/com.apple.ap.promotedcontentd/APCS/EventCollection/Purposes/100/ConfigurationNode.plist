@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>properties</key>
+	<dict>
+		<key>allowedPurposes</key>
+		<array>
+			<integer>101</integer>
+		</array>
+		<key>allowedSources</key>
+		<array>
+			<string>9fda0d0f2795c66187a70ac938a0509ef307b6e7c48036a4ebcdf8afe5f40dbe</string>
+			<string>afa50e3c7014577631a3144a46eeb72d2c5d2ab090ac590b5998e2c8381bcd11</string>
+			<string>6bbc9fecabccff43282ec3a01b3934851429ee5d38d5181db3ef580bfac3c2da</string>
+		</array>
+		<key>collectionType</key>
+		<integer>7401</integer>
+		<key>samplePercentage</key>
+		<integer>3000</integer>
+		<key>samplePeriod</key>
+		<integer>432000</integer>
+	</dict>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+2024/07/07-21:50:19.036 a707 Reusing MANIFEST /Users/kevinly/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/07-21:50:19.037 a707 Recovering log #85
+2024/07/07-21:50:19.037 a707 Reusing old log /Users/kevinly/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb/000085.log 
+2024/07/07-21:50:19.037 a707 Delete type=2 #83
+2024/07/07-21:50:19.139 8503 Level-0 table #90: started
+2024/07/07-21:50:19.159 8503 Level-0 table #90: 975 bytes OK
+2024/07/07-21:50:19.198 8503 Delete type=0 #85
+2024/07/07-21:50:19.198 a707 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\x05' @ 826 : 1
+2024/07/07-21:50:19.198 a707 Compacting 1@0 + 1@1 files
+2024/07/07-21:50:19.219 a707 Generated table #91@0: 14 keys, 705 bytes
+2024/07/07-21:50:19.219 a707 Compacted 1@0 + 1@1 files => 705 bytes
+2024/07/07-21:50:19.256 a707 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/07-21:50:19.257 a707 Delete type=2 #90
+2024/07/07-21:50:19.257 a707 Manual compaction at level-0 from '\x00\x19\x00\x00\x05' @ 826 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)

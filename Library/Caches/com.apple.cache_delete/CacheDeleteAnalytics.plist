@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DateStarted</key>
+	<date>2024-07-07T22:54:13Z</date>
+	<key>dailyActiveTimePurgeableS</key>
+	<real>6</real>
+	<key>dailyActiveTimeS</key>
+	<real>6</real>
+	<key>dailyNumDesiredDiskBroadcastsAll</key>
+	<integer>15</integer>
+	<key>dailyNumDesiredDiskBroadcastsRoot</key>
+	<integer>15</integer>
+	<key>dailyPurgeableReqs</key>
+	<integer>10</integer>
+	<key>purgeable_time_Late_com.apple.MailCacheDelete</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.Music.MusicCacheExtension</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.Safari.CacheDeleteExtension</key>
+	<integer>2</integer>
+	<key>purgeable_time_Late_com.apple.TMCacheDelete</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.TV.TVCacheExtension</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.appstoreagent.CacheDelete</key>
+	<integer>2</integer>
+	<key>purgeable_time_Late_com.apple.cache_delete_app_container_caches</key>
+	<integer>3</integer>
+	<key>purgeable_time_Late_com.apple.cloudd.cache-delete</key>
+	<integer>2</integer>
+	<key>purgeable_time_Late_com.apple.cloudd.system.cache-delete</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.commerce.cachedelete</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.geod.cachedelete</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.installd.CacheDelete</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.mobileassetd.cache-delete</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.osanalytics.user.cachedelete</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.quicklook.ThumbnailsAgent.CacheDelete</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.replayd-cache-delete</key>
+	<integer>1</integer>
+	<key>purgeable_time_Late_com.apple.system_installd.CacheDelete</key>
+	<integer>1</integer>
+</dict>
+</plist>
