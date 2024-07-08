@@ -1,7 +1,0 @@
-2024-07-07 21:16:57.055 [info] Log level: Info
-2024-07-07 21:16:57.055 [info] Validating found git in: "/usr/bin/git"
-2024-07-07 21:16:57.100 [info] Using git "2.39.2 (Apple Git-143)" from "/usr/bin/git"
-2024-07-07 21:16:57.139 [info] > git rev-parse --show-toplevel [34ms]
-2024-07-07 21:16:57.177 [info] > git rev-parse --show-toplevel [34ms]
-2024-07-07 21:16:57.206 [info] > git rev-parse --show-toplevel [26ms]
-2024-07-07 21:17:12.446 [info] > git rev-parse --show-toplevel [23ms]

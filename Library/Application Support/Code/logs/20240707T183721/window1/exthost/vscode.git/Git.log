@@ -1,9 +1,0 @@
-2024-07-07 18:37:28.516 [info] Log level: Info
-2024-07-07 18:37:28.516 [info] Validating found git in: "/usr/bin/git"
-2024-07-07 18:37:28.573 [info] Using git "2.39.2 (Apple Git-143)" from "/usr/bin/git"
-2024-07-07 18:37:28.609 [info] > git rev-parse --show-toplevel [28ms]
-2024-07-07 18:37:28.609 [info] fatal: not a git repository (or any of the parent directories): .git
-2024-07-07 18:37:28.655 [info] > git rev-parse --show-toplevel [45ms]
-2024-07-07 18:37:28.655 [info] fatal: not a git repository (or any of the parent directories): .git
-2024-07-07 18:37:28.938 [info] > git rev-parse --show-toplevel [30ms]
-2024-07-07 18:37:28.938 [info] fatal: not a git repository (or any of the parent directories): .git

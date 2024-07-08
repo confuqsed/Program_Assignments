@@ -1,5 +1,0 @@
-2024-07-07 18:37:22.289 [info] update#setState idle
-2024-07-07 18:37:23.967 [error] vscode-file: Refused to load resource /private/var/folders/6v/1gkmxvh10ng18bxqrch98npm0000gn/T/AppTranslocation/A2AE42BA-8D7D-476E-8BCD-1325A627449F/d/Visual Studio Code.app/Contents/Resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/private/var/folders/6v/1gkmxvh10ng18bxqrch98npm0000gn/T/AppTranslocation/A2AE42BA-8D7D-476E-8BCD-1325A627449F/d/Visual%20Studio%20Code.app/Contents/Resources/app/extensions/theme-seti/icons/seti.woff)
-2024-07-07 18:37:52.294 [info] update#setState checking for updates
-2024-07-07 18:37:52.825 [info] update#setState idle
-2024-07-07 19:10:06.806 [info] Extension host with pid 1444 exited with code: 0, signal: unknown.

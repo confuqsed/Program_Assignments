@@ -1,7 +1,0 @@
-2024/07/07-21:50:27.207 8503 Reusing MANIFEST /Users/kevinly/Library/Application Support/Google/Chrome/Default/WebStorage/7/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/07/07-21:50:27.208 8503 Recovering log #3
-2024/07/07-21:50:27.209 8503 Reusing old log /Users/kevinly/Library/Application Support/Google/Chrome/Default/WebStorage/7/IndexedDB/indexeddb.leveldb/000003.log 
-2024/07/07-21:52:40.044 8503 Level-0 table #5: started
-2024/07/07-21:52:40.067 8503 Level-0 table #5: 308767 bytes OK
-2024/07/07-21:52:40.108 8503 Delete type=0 #3
-2024/07/07-21:52:40.110 8503 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

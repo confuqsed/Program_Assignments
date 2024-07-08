@@ -1,4 +1,0 @@
-en_GB-zh_CN	PB-en/en-zh_CN.mt_app+mt_app_greedy+siri+system+system_greedy+web.dict	
-en_GB-zh_TW	PB-en/en-zh.mt_app+mt_app_greedy+siri+system+system_greedy+web.dict	
-en_US-zh_CN	PB-en/en-zh_CN.mt_app+mt_app_greedy+siri+system+system_greedy+web.dict	
-en_US-zh_TW	PB-en/en-zh.mt_app+mt_app_greedy+siri+system+system_greedy+web.dict	

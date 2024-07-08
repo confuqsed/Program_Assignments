@@ -1,6 +1,0 @@
-2024-07-07 15:58:03.601 [info] Log level: Info
-2024-07-07 15:58:03.601 [warning] Unable to find git. Error: Executing "xcode-select -p" failed with error code 2.
-2024-07-07 15:58:03.601 [warning] Git installation not found.
-2024-07-07 15:59:17.389 [info] Log level: Info
-2024-07-07 15:59:17.395 [warning] Unable to find git. Error: Executing "xcode-select -p" failed with error code 2.
-2024-07-07 15:59:17.414 [warning] Git installation not found.
