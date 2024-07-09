@@ -10,13 +10,14 @@ class Hero:
         current_health: Integer
     '''
         
-# We know the name of our hero, so we assign it here
-self.name = name
-# Similarly, our starting health is passed in, just like name
-self.starting_health = starting_health
-# When a hero is created, their current health is
-# Always the same as their starting health (no damage taken yet!)
-self.current_health = starting_health
+        # We know the name of our hero, so we assign it here
+        self.name = name
+        # Similarly, our starting health is passed in, just like name
+        self.starting_health = starting_health
+        # When a hero is created, their current health is
+        # Always the same as their starting health (no damage taken yet!)
+        self.current_health = starting_health       
+
 
 if __name__ == "__main__":
     # If you run this file from the terminal
