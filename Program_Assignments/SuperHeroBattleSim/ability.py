@@ -5,6 +5,6 @@ class Ability:
         self.name = name
         self.max_damage = max_damage
 
-        def attack(self)
-            damage = random.randint(0, self.max_damage)
-            return damage
+    def attack(self):
+        damage = random.randint(0, self.max_damage)
+        return damage

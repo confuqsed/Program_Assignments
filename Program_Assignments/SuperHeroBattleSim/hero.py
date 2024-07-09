@@ -18,7 +18,6 @@ class Hero:
         # Always the same as their starting health (no damage taken yet!)
         self.current_health = starting_health       
 
-
 if __name__ == "__main__":
     # If you run this file from the terminal
     # this block is executed.
