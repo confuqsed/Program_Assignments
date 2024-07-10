@@ -1,4 +1,8 @@
 # hero.py
+
+from ability import Ability
+from armor import Armor
+
 class Hero:
     # We want our hero to have a default "starting_health",
     # so we can set that in the function header.
@@ -16,7 +20,9 @@ class Hero:
         self.starting_health = starting_health
         # When a hero is created, their current health is
         # Always the same as their starting health (no damage taken yet!)
-        self.current_health = starting_health       
+        self.current_health = starting_health
+        self.abilities = list()
+        self.armors = list()
 
 if __name__ == "__main__":
     # If you run this file from the terminal
