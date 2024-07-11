@@ -23,6 +23,7 @@ class Hero:
         self.current_health = starting_health
         self.abilities = list()
         self.armors = list()
+        add_ability = ()
 
 if __name__ == "__main__":
     # If you run this file from the terminal

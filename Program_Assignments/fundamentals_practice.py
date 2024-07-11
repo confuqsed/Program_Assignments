@@ -10,4 +10,15 @@ favorite_things = {
     "game" : "Breath of the Wild"
 }
 
+car_name = "Porsche"
+x = 50
+my_first_name = "Kevin"
+
 print(name)
+print(nick_name)
+print(age)
+print(favorite_hobbies)
+print(favorite_things)
+print(car_name)
+print(x)
+print(my_first_name)
